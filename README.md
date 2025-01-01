@@ -1,5 +1,5 @@
 # Pandemic Outbreak Prediction App
-This project involves a real-time Infectious Disease Analysis and Prediction App
+This project involves a pandemic outbreak Prediction using the SIR model
 This project is a Streamlit app designed to analyze and predict infectious disease trends. 
 
 
